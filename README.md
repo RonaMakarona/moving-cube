@@ -1,5 +1,5 @@
 # moving-cube
-A moving blue cube in C + winAPI \n
+A moving blue cube in C + winAPI
 To move the cube use the arrow buttons
 This code was supposed to be a RPG but I gave up on the idea because I wanted to create something else
 I hope you find it useful (?)
